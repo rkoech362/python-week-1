@@ -7,6 +7,7 @@ if (option ==1):
   num1=int(input("enter the first number:"))
   num2=int(input("enter the second number: "))
   print (num1+num2)
+
 elif (option==2):
    num1=int(input("enter first number: "))
    num2=int(input("enter second number: "))
@@ -17,5 +18,7 @@ elif (option==3):
    print( num1*num2)   
 elif (option==4):
  num1=int(input("enter the first number: "))
-num2=int(input("enter second number: "))
-print( num1//num2)
+ num2=int(input("enter second number: "))
+ print( num1//num2)
+else:
+  print("invalid entry")
