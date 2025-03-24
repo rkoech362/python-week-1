@@ -1,4 +1,4 @@
-print("1. add")
+print("\n1. add")
 print("2. subtract")
 print("3. multiply")
 print("4. divide")
